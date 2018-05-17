@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://vuepress.vuejs.org/" target="_blank">
+    <img width="280" src="https://raw.githubusercontent.com/vuejs/vuepress/master/docs/.vuepress/public/hero.png" alt="logo">
+  </a>
+</p>
+
 # Kompiuterių remontas ir priežiūra Dubline, Airijoje
 ![Kompiuteriu remontas Airijoje](../img/laptop-repair.jpg)
 

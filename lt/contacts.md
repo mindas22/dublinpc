@@ -4,7 +4,17 @@ Skambinkite 085 733 8886
 
 DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland
 
-<form>
-  <input type="text">
-  <button>siusti</button>
+<form name="contact" method="POST" netlify>
+  <p>
+    <label>Your Name: <input type="text" name="name"></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email"></label>
+  </p>
+  <p>
+    <label>Message: <textarea rows="8" cols="30" name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
 </form>
