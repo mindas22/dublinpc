@@ -1,3 +1,8 @@
+---
+meta:
+  - name: description
+    content: Why is monitor colour calibration important to You? Is your edited photo being seen by your friends in the same way as it is by you? ... Services in Dublin.
+---
 # Monitor colour calibration services in Dublin
 
 ![Monitor calibration](./img/color-management.jpg)

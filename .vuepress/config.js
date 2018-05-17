@@ -18,7 +18,7 @@ module.exports = {
           {
             text: 'Services', 
             items: [
-              { text: 'Monitor calibration', link: '/monitor-calibration-service' },
+              { text: 'Monitor calibration', link: '/monitor-colour-calibration-services-dublin' },
               { text: 'Windows reinstall', link: '/windows-operating-system-reinstall-dublin' }
           ]
           }
@@ -40,7 +40,7 @@ module.exports = {
             items: [
               { 
                 text: 'Monitoriaus kalibravimas',
-                link: '/lt/monitor-calibration-service'
+                link: '/lt/monitor-colour-calibration-services-dublin'
               },
               {
                 text: 'Windows perinstaliavimas',
