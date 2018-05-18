@@ -1,3 +1,8 @@
+---
+meta:
+  - name: description
+    content: Kompiuteris veikia lėčiau, užpuolė virusai? Windows Operacinės sistemos perinstaliavimas, išsaugojant esamus duomenis. Dubline. Airijoje.
+---
 # Windows Operacinės sistemos perinstaliavimas Dubline
 
 Dublin PC – kompiuterių priežiūros ir remonto paslaugos, virusų naikinimas, Ekrano spalvų suderinimas.

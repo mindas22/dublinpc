@@ -39,11 +39,11 @@ module.exports = {
             items: [
               { 
                 text: 'Monitoriaus kalibravimas',
-                link: '/lt/monitor-colour-calibration-services-dublin/'
+                link: '/lt/monitoriaus-spalvu-suderinimas-kalibravimas-dubline/'
               },
               {
                 text: 'Windows perinstaliavimas',
-                link: '/lt/windows-operating-system-reinstall-dublin/'
+                link: '/lt/windows-operacines-sistemos-perinstaliavimas-dubline/'
               }
             ]
           }
