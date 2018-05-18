@@ -31,10 +31,9 @@ module.exports = {
       '/lt/': {
         selectText: 'Kalba',
         label: 'Lietuvių',
-        editLinkText: '在 GitHub 上编辑此页',
         nav: [
-          { text: 'Pradžia', link: '/lt/'},
-          { text: 'kontaktai', link: 'contacts'},
+          { text: 'Pradžia', link: '/lt/#'},
+          { text: 'kontaktai', link: '/lt/contacts'},
           {
             text: 'Paslaugos',
             items: [
