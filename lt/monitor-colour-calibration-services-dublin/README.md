@@ -2,7 +2,7 @@
 
 Ką duoda monitoriaus spalvų sukalibravimas?
 
-![Kompiuteriu remontas Airijoje](../img/color-management.jpg)
+![Kompiuteriu remontas Airijoje](../../img/color-management.jpg)
 
 Ar jūsų redaguotos nuotraukos atrodo tai pat kaip ir pas jūsų draugų monitoriuose? Fotomegėjai retai kalibruoja savo ekrnus, todėl tonai ir spalvos atrodo kitaip nei jos iš tikrūjų yra.
 

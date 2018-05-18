@@ -14,12 +14,12 @@ module.exports = {
         algolia: {},
         nav: [
           { text: 'Home', link: '/'},
-          { text: 'Contacts', link: 'contacts'},
+          { text: 'Contacts', link: '/contacts/'},
           {
             text: 'Services', 
             items: [
-              { text: 'Monitor calibration', link: '/monitor-colour-calibration-services-dublin' },
-              { text: 'Windows reinstall', link: '/windows-operating-system-reinstall-dublin' }
+              { text: 'Monitor calibration', link: '/monitor-colour-calibration-services-dublin/' },
+              { text: 'Windows reinstall', link: '/windows-operating-system-reinstall-dublin/' }
           ]
           }
         ],
@@ -33,17 +33,17 @@ module.exports = {
         label: 'Lietuvių',
         nav: [
           { text: 'Pradžia', link: '/lt/#'},
-          { text: 'kontaktai', link: '/lt/contacts'},
+          { text: 'kontaktai', link: '/lt/contacts/'},
           {
             text: 'Paslaugos',
             items: [
               { 
                 text: 'Monitoriaus kalibravimas',
-                link: '/lt/monitor-colour-calibration-services-dublin'
+                link: '/lt/monitor-colour-calibration-services-dublin/'
               },
               {
                 text: 'Windows perinstaliavimas',
-                link: '/lt/windows-operating-system-reinstall-dublin'
+                link: '/lt/windows-operating-system-reinstall-dublin/'
               }
             ]
           }
