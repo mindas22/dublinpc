@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Dublin PC',
-  // description: 'Computers R epairs in Lucan',
+  description: 'Computers Repairs in Lucan',
   themeConfig: {
     locales: {
       '/': {
@@ -62,12 +62,12 @@ module.exports = {
     '/': {
       lang: 'en-US', // this will be set as the lang attribute on <html>
       title: 'Dublin PC',
-      // description: 'Computers Repairs in Lucan'
+      description: 'Computers Repairs in Lucan'
     },
     '/lt/': {
       lang: 'lt-LT',
       title: 'Dublin PC',
-      // description: 'Kompiuterių remontas ir priežiūra Dubline, Airijoje'
+      description: 'Kompiuterių remontas ir priežiūra Dubline, Airijoje'
     }
   },
   ga: 'UA-15913626-1'
