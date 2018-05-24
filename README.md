@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /dublin-pc-computers.jpg
+heroImage: /laptop-repair.jpg
 actionText: Get Started →
 actionLink: /contacts/
 features:
