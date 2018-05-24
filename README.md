@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /dublin-pc-computers.jpg
 actionText: Get Started →
 actionLink: /contacts/
 features:
@@ -13,15 +13,13 @@ features:
 footer: Copyright © 2018-present Dublin PC
 ---
 
-## Co. Dublin based PC support, repair, maintenance service. Virus removal. Screen calibration.
+# Co. Dublin based PC support, repair, maintenance service. Virus removal. Screen calibration.
 ![Computer repair](./img/laptop-repair.jpg)
 
-
-### Call [085 733 8886](tel:+353857338886)
+## Call [085 733 8886](tel:+353857338886)
 ::: tip WE SPEAK:
 *English, Russian, Lithuanian*
 :::
-
 
 **Services:**
 
