@@ -7,7 +7,7 @@ DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland
 
 <form name="contact" method="POST" netlify>
   <p>
-    <label>Your Name: <input type="text" name="name"></label>   
+    <label>Your Name: <input type="text" name="name"></label>
   </p>
   <p>
     <label>Your Email: <input type="email" name="email"></label>

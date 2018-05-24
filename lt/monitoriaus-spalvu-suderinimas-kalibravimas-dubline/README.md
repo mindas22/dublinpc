@@ -1,3 +1,8 @@
+---
+meta:
+  - name: description
+    content: Ką jums duoda monitoriaus spalvų sukalibravimas? Ar jūsų redaguotos nuotraukos atrodo tai pat kaip ir pas jūsų draugų monitoriuose? Paslaugos Airijoje.
+---
 # Monitoriaus spalvų suderinimas – kalibravimas Dubline Airijoje 
 
 Ką duoda monitoriaus spalvų sukalibravimas?

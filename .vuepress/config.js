@@ -32,7 +32,7 @@ module.exports = {
         selectText: 'Kalba',
         label: 'Lietuvių',
         nav: [
-          { text: 'Pradžia', link: '/lt/#'},
+          { text: 'Pradžia', link: '/lt/'},
           { text: 'Kontaktai', link: '/lt/contacts/'},
           {
             text: 'Paslaugos',
