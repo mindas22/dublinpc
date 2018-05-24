@@ -24,10 +24,7 @@ module.exports = {
           }
         ],
         sidebar: {
-          '/': [
-            '',
-            'contacts',
-            /* ... */],
+          '/': [/* ... */],
           '/nested/': [/* ... */]
         }
       },
@@ -53,9 +50,7 @@ module.exports = {
         ],
         algolia: {},
         sidebar: {
-          '/lt/contacts/': [
-            '/lt/windows-operacines-sistemos-perinstaliavimas-dubline/',
-            /* ... */],
+          '/lt/': [/* ... */],
           '/lt/nested/': [/* ... */]
         }
       }
