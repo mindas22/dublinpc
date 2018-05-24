@@ -26,7 +26,7 @@ module.exports = {
         sidebar: {
           '/': [
             '',
-            'contact',
+            'contacts',
             /* ... */],
           '/nested/': [/* ... */]
         }
