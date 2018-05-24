@@ -29,7 +29,7 @@ module.exports = {
         }
       },
       '/lt/': {
-        selectText: 'Kalba <i class="fa fa-language fa-2x></i>',
+        selectText: 'Kalba',
         label: 'Lietuvių',
         nav: [
           { text: 'Pradžia', link: '/lt/#'},
