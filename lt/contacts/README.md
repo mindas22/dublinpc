@@ -1,6 +1,6 @@
 # kontaktai
 
-Skambinkite 085 733 8886
+Skambinkite [085 733 8886](tel:+353857338886)
 
 DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland
 

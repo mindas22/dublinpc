@@ -10,7 +10,7 @@
 	
 ### Dublin PC – kompiuterių priežiūros ir remonto paslaugos, virusų naikinimas, Ekrano spalvų suderinimas.
 
-### Call 085 733 8886
+### Call [085 733 8886](tel:+353857338886)
 
 **Paslaugos:**
 
