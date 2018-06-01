@@ -1,4 +1,7 @@
 ---
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mindas22/dublinpc.svg)](https://greenkeeper.io/)
+
 home: true
 heroImage: /laptop-repair.jpg
 actionText: Get Started →
