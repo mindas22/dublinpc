@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vuepress": "^0.8.4"
+    "vuepress": "^0.10.0"
   },
   "bugs": {
     "url": "https://github.com/mindas22/dublinpc/issues"
