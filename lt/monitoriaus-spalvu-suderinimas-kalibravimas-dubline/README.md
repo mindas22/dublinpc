@@ -20,6 +20,6 @@ Ekranų tipai gali būti šie: CCFL, Wide-Gamut CCFL, White LED, RGB LED, CRT ir
 
 Tam tikrais atvejais patarsime, kada jums patiems reiktų įsigyti kalibratorių.
 
-Prašome [susisiekite](/lt/contacts/) susitarti dėl serviso.
+Prašome [susisiekite](/lt/kontaktai/) susitarti dėl serviso.
 
 Kaina €25.

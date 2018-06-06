@@ -33,7 +33,7 @@ module.exports = {
         label: 'Lietuvių',
         nav: [
           { text: 'Pradžia', link: '/lt/'},
-          { text: 'Kontaktai', link: '/lt/contacts/'},
+          { text: 'Kontaktai', link: '/lt/kontaktai/'},
           {
             text: 'Paslaugos',
             items: [
