@@ -56,6 +56,32 @@ module.exports = {
           '/lt/': [/* ... */],
           '/lt/nested/': [/* ... */]
         }
+      },
+      '/ru/': {
+        selectText: 'RU',
+        label: 'Русский',
+        nav: [
+          { text: 'Начало', link: '/ru/'},
+          { text: 'Контакты', link: '/ru/kontakt/'},
+          {
+            text: 'Услуги',
+            items: [
+              { 
+                text: 'Калибровка экрана',
+                link: '/ru/калибровка-экрана-компьютера/'
+              },
+              // {
+              //   text: 'Windows perinstaliavimas',
+              //   link: '/ru/windows-operacines-sistemos-perinstaliavimas-dubline/'
+              // }
+            ]
+          }
+        ],
+        algolia: {},
+        sidebar: {
+          '/lt/': [/* ... */],
+          '/lt/nested/': [/* ... */]
+        }
       }
     }
   },
@@ -71,6 +97,11 @@ module.exports = {
       lang: 'lt-LT',
       title: 'Dublin PC',
       description: 'Kompiuterių remontas ir priežiūra Dubline, Airijoje'
+    },
+    '/ru/': {
+      lang: 'ru-RU',
+      title: 'Dublin PC',
+      description: 'ремонт, техническое обслуживание компьютеров, удаление вирусов, калибровка экрана. Телефон 085 733 8886.'
     }
   },
   ga: 'UA-15913626-1'

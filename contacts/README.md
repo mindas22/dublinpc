@@ -7,7 +7,7 @@ meta:
 # contact us 
 
 Please phone [085 733 8886](tel:+353857338886)
-We speak English, Russian, Lithuanian.
+We speak *[English](/), [Russian](/ru/), [Lithuanian](/lt/)*
 
 DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland
 

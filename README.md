@@ -9,7 +9,7 @@ meta:
 
 ## Call [085 733 8886](tel:+353857338886)
 ::: tip WE SPEAK:
-*English, Russian, Lithuanian*
+*[English](/), [Russian](/ru/), [Lithuanian](/lt/)*
 :::
 
 **Services:**
@@ -17,7 +17,7 @@ meta:
 - Computer speedup and optimisation
 - Computer repair services
 - Laptop repair services
-- Monitor colour calibration (Precisely measure all types of displays – including LCDs, - LEDs, wide gamut displays, CRTs and laptops) for colour accuracy.
+- [Monitor colour calibration](/monitor-colour-calibration-services-dublin/) (Precisely measure all types of displays – including LCDs, - LEDs, wide gamut displays, CRTs and laptops) for colour accuracy.
 - Laptop DC jack repair
 - Virus + spyware Removal
 - Computer security and protection
