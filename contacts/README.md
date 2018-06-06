@@ -1,3 +1,9 @@
+---
+meta:
+  - name: description
+    content: Please phone 085 733 8886. We speak English, Russian, Lithuanian. DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland. Your Name (required).
+---
+
 # contact us 
 
 Please phone [085 733 8886](tel:+353857338886)

@@ -1,3 +1,8 @@
+---
+meta:
+  - name: description
+    content: Other problems? Most problems relating to operating system could be solved in one service. Windows operating system reinstall or upgrade + free backup and ...
+---
 # Windows operating system reinstall in Dublin
 
 - Computer works slowly, got attacked by viruses?
@@ -10,7 +15,7 @@ Re-installation package:
 
 - Backup of Your personal data, eg. pictures, movies, music, internet favourite sites.
 - Hard disk drive checkup for health.
-- Windows operating system reinstall.
+- **Windows operating system reinstall.**
 - All nesesary drives install.
 - Windows update.
 - Most important programs. (Antivirus, Skype, movie player, DVD writer, utorrent, firefox and other - useful programs.
