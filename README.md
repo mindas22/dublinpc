@@ -7,7 +7,7 @@ meta:
 
 ![Computer repair](./img/laptop-repair.jpg)
 
-## Call [085 733 8886](tel:+353857338886)
+#### Call [085 733 8886](tel:+353857338886)
 ::: tip WE SPEAK:
 *[English](/), [Russian](/ru/), [Lithuanian](/lt/)*
 :::
