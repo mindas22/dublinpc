@@ -8,7 +8,7 @@ module.exports = {
     locales: {
       '/': {
         // text for the language dropdown
-        selectText: 'EN',
+        selectText: 'Language',
         // label for this locale in the language dropdown
         label: 'English',
         // text for the edit-on-github link
@@ -32,7 +32,7 @@ module.exports = {
         }
       },
       '/lt/': {
-        selectText: 'LT',
+        selectText: 'Kalba',
         label: 'Lietuvių',
         nav: [
           { text: 'Pradžia', link: '/lt/'},
@@ -58,7 +58,7 @@ module.exports = {
         }
       },
       '/ru/': {
-        selectText: 'RU',
+        selectText: 'Язык',
         label: 'Русский',
         nav: [
           { text: 'Начало', link: '/ru/'},
