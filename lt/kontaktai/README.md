@@ -3,6 +3,8 @@ meta:
   - name: description
     content: Dublin PC - kompiuterių priežiūros ir remonto paslaugos, virusų naikinimas, Ekrano spalvų suderinimas Airijoje. Skambinti 085 733 8886. Paslaugos...
 ---
+![Windows OS reinstallation services](../../img/1287.jpg)
+
 # kontaktai
 
 Skambinkite [085 733 8886](tel:+353857338886)

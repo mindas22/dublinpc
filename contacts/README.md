@@ -3,6 +3,7 @@ meta:
   - name: description
     content: Please phone 085 733 8886. We speak English, Russian, Lithuanian. DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland. Your Name (required).
 ---
+![Windows OS reinstallation services](../img/1287.jpg)
 
 # contact us 
 

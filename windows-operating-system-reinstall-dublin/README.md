@@ -5,6 +5,10 @@ meta:
 ---
 # Windows operating system reinstall in Dublin
 
+![Windows OS reinstallation services](../img/windows-reinstall.jpg)
+
+<small>([Designed by Freepik](https://www.freepik.com/free-photo/man-working-at-desk_1370830.htm))</small>
+
 - Computer works slowly, got attacked by viruses?
 - Computer does not startup properly?
 - Other problems?

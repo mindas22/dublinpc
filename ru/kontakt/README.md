@@ -3,8 +3,9 @@ meta:
   - name: description
     content: Dublin PC - ремонт, техническое обслуживание компьютеров, удаление вирусов, калибровка экрана. Телефон 085 733 8886
 ---
-# Контакты
+![Windows OS reinstallation services](../../img/1287.jpg)
 
+# Контакты
 Звоните [085 733 8886](tel:+353857338886)
 
 DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland
