@@ -1,4 +1,7 @@
 module.exports = {
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   title: 'Dublin PC',
   description: 'Computers Repairs in Lucan',
   themeConfig: {
