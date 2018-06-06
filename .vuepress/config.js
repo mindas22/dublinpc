@@ -68,7 +68,7 @@ module.exports = {
             items: [
               { 
                 text: 'Калибровка экрана',
-                link: '/ru/калибровка-экрана-компьютера/'
+                link: '/ru/kalibrovka-ekrana-komputera-dublin/'
               },
               // {
               //   text: 'Windows perinstaliavimas',
