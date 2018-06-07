@@ -10,7 +10,7 @@ meta:
 
 DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland
 
-<form name="contact" method="POST" netlify>
+<form name="contact" method="POST" action="/thanks.html" netlify>
   <p>
     <label>Имя: <input type="text" name="name"></label>   
   </p>

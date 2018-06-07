@@ -12,7 +12,7 @@ We speak *[English](/), [Russian](/ru/), [Lithuanian](/lt/)*
 
 DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland
 
-<form name="contact" method="POST" netlify>
+<form name="contact" method="POST" netlify action="/thanks.html">
   <p>
     <label>Your Name: <input type="text" name="name"></label>
   </p>
