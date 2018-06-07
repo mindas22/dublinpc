@@ -19,11 +19,11 @@ Kas įeina į šią paslaugą:
 - Jūsų asmeninių duomenų išsaugojimas, t.y. nuotraukos, filmai, muzika, favorites ir t.t.
 - Kietojo disko patikrinimas.
 - Windows operacinės sistemos instaliavimas.
-- Visų reikiamų tvarkyklių instaliavimas.
+- Visų reikiamų tvarkyklių instaliavimas. (Kad teisingai veiktų mikrofonas ir t.t.)
 - Operacinės sistemos atnaujinimas (Windows update).
 - Būtiniausių programų instaliavimas. (Antivirus, Skype, video žiūrėjimui, DVD įrašymui, utorrent, firefox su visais priedais, pvz., flash player ir kitos reikalingos programos).
 - Kietojo disko defragmentavimas.
 - Operacinės sistemos optimizavimas (labai svarbu, kad sistema veiktų greičiau).
-- [Ekrano spalvų suderinimas. Ekrano spalvos atrodys natūralios, geriau rodys nei rodė tik nupirkus iš parduotuvės.](/lt/monitoriaus-spalvu-suderinimas-kalibravimas-dubline/)
+- [Ekrano spalvų suderinimas. Ekrano spalvos atrodys natūralios, geriau rodys nei rodė tik nupirkus iš parduotuvės.](/lt/monitoriaus-spalvu-suderinimas-kalibravimas-dubline/) (Priduodant kompiuteri paminėkite, kad norite šios paslaugos)
 
 - Paslaugos kaina €50
