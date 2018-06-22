@@ -23,4 +23,4 @@ DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland
   <p>
     <button type="submit">Отправить</button>
   </p>
-</form>
+</form>.
