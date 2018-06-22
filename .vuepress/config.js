@@ -22,7 +22,10 @@ module.exports = {
             text: 'Services', 
             items: [
               { text: 'Monitor calibration', link: '/monitor-colour-calibration-services-dublin/' },
-              { text: 'Windows reinstall', link: '/windows-operating-system-reinstall-dublin/' }
+              { text: 'Windows reinstall', link: '/windows-operating-system-reinstall-dublin/' },
+              { text: 'Computer repair services', link: '/computer-repair-services/' }
+
+
           ]
           }
         ],

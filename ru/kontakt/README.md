@@ -8,7 +8,7 @@ meta:
 # Контакты
 Звоните [085 733 8886](tel:+353857338886)
 
-DUBLIN PC – Willsbrook View, Lucan, Co.Dublin, Ireland
+DUBLIN PC – Lucan, Co.Dublin, Ireland
 
 <form name="contact" method="POST" action="/thanks.html" netlify>
   <p>
