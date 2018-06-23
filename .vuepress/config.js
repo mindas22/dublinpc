@@ -17,7 +17,6 @@ module.exports = {
         algolia: {},
         nav: [
           { text: 'Home', link: '/'},
-          { text: 'Contacts', link: '/contacts/'},
           {
             text: 'Services', 
             items: [
@@ -27,7 +26,8 @@ module.exports = {
 
 
           ]
-          }
+          },
+          { text: 'Contacts', link: '/contacts/'}
         ],
         sidebar: {
           '/': [/* ... */],
@@ -39,7 +39,6 @@ module.exports = {
         label: 'Lietuvių',
         nav: [
           { text: 'Pradžia', link: '/lt/'},
-          { text: 'Kontaktai', link: '/lt/kontaktai/'},
           {
             text: 'Paslaugos',
             items: [
@@ -52,7 +51,9 @@ module.exports = {
                 link: '/lt/windows-operacines-sistemos-perinstaliavimas-dubline/'
               }
             ]
-          }
+          },
+          { text: 'Kontaktai', link: '/lt/kontaktai/'},
+
         ],
         algolia: {},
         sidebar: {
@@ -65,7 +66,6 @@ module.exports = {
         label: 'Русский',
         nav: [
           { text: 'Начало', link: '/ru/'},
-          { text: 'Контакты', link: '/ru/kontakt/'},
           {
             text: 'Услуги',
             items: [
@@ -78,7 +78,8 @@ module.exports = {
               //   link: '/ru/windows-operacines-sistemos-perinstaliavimas-dubline/'
               // }
             ]
-          }
+          },
+          { text: 'Контакты', link: '/ru/kontakt/'}
         ],
         algolia: {},
         sidebar: {
