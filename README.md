@@ -3,6 +3,8 @@ meta:
   - name: description
     content: Computer hardware and software support, repair and maintenance and monitor calibration services in Co. Dublin area.
 ---
+![Computer repair](./img/dublin-pc-computers.jpg)
+
 # Co. Dublin based PC support, repair, maintenance service. Virus removal. Screen calibration.
 
 ![Computer repair](./img/laptop-repair.jpg)
