@@ -16,7 +16,7 @@ Teisingai sukalibruotas monitorius yra svarbi skaitemeniinės fotografijos ar gr
 Net jei jūs ir neužsimate fotografija ar dizainu, žiūrėjimas į ekraną patampa malonesnis akiai, sumažina nuovargį.
 
 Mes galime sukalibruoti jūsų monitorių ar nešiojamo kompiuterio ekraną ypač preciziškai naudojant tam skirtą techninę įrangą.
-Ekranų tipai gali būti šie: CCFL, Wide-Gamut CCFL, White LED, RGB LED, CRT ir projektoriai.
+Ekranų tipai gali būti šie: CCFL, Wide-Gamut CCFL, White LED, Retina, RGB LED, CRT ir projektoriai.
 
 Tam tikrais atvejais patarsime, kada jums patiems reiktų įsigyti kalibratorių.
 
