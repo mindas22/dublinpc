@@ -10,7 +10,9 @@ meta:
 
 DUBLIN PC – Lucan, Co.Dublin, Ireland
 
-<form name="contact" method="POST" action="/thanks.html" netlify>
+Email: __[info@dublinpc.ie](mailto:info@dublinpc.ie)__
+
+<!-- <form name="contact" method="POST" action="/thanks.html" netlify>
   <p>
     <label>Имя: <input type="text" name="name"></label>   
   </p>
@@ -23,4 +25,4 @@ DUBLIN PC – Lucan, Co.Dublin, Ireland
   <p>
     <button type="submit">Отправить</button>
   </p>
-</form>.
+</form>. -->
