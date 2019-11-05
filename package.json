@@ -1,6 +1,6 @@
 {
   "name": "dublinpc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "--- home: true heroImage: /hero.png actionText: Get Started → actionLink: /contacts features: - title: Simplicity First   details: Minimal setup with markdown-centered project structure helps you focus on writing. - title: Vue-Powered   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue. - title: Performant   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded. footer: Copyright © 2018-present Dublin PC ---",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/mindas22/dublinpc/issues"
   },
-  "homepage": "https://github.com/mindas22/dublinpc#readme"
+  "homepage": "https://github.com/mindas22/dublinpc#readme",
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
+    "@vuepress/plugin-nprogress": "^1.0.0-rc.1"
+  }
 }

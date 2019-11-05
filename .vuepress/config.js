@@ -1,6 +1,9 @@
 module.exports = {
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', {
+      rel: 'icon',
+      href: '/favicon.ico'
+    }]
   ],
   title: 'Dublin PC',
   description: 'Computers Repairs in Lucan',
@@ -15,34 +18,48 @@ module.exports = {
         editLinkText: 'Edit this page on GitHub',
         // algolia docsearch options for current locale
         algolia: {},
-        nav: [
-          { text: 'Home', link: '/'},
-          {
-            text: 'Services', 
-            items: [
-              { text: 'Monitor calibration', link: '/monitor-colour-calibration-services-dublin/' },
-              { text: 'Windows reinstall', link: '/windows-operating-system-reinstall-dublin/' },
-              { text: 'Computer repair services', link: '/computer-repair-services/' }
-
-
-          ]
+        nav: [{
+            text: 'Home',
+            link: '/'
           },
-          { text: 'Contacts', link: '/contacts/'}
+          {
+            text: 'Services',
+            items: [{
+                text: 'Monitor calibration',
+                link: '/monitor-colour-calibration-services-dublin/'
+              },
+              {
+                text: 'Windows reinstall',
+                link: '/windows-operating-system-reinstall-dublin/'
+              },
+              {
+                text: 'Computer repair services',
+                link: '/computer-repair-services/'
+              }
+
+
+            ]
+          },
+          {
+            text: 'Contacts',
+            link: '/contacts/'
+          }
         ],
         sidebar: {
-          '/': [/* ... */],
-          '/nested/': [/* ... */]
+          '/': [ /* ... */ ],
+          '/nested/': [ /* ... */ ]
         }
       },
       '/lt/': {
         selectText: 'Kalba',
         label: 'Lietuvių',
-        nav: [
-          { text: 'Pradžia', link: '/lt/'},
+        nav: [{
+            text: 'Pradžia',
+            link: '/lt/'
+          },
           {
             text: 'Paslaugos',
-            items: [
-              { 
+            items: [{
                 text: 'Monitoriaus kalibravimas',
                 link: '/lt/monitoriaus-spalvu-suderinimas-kalibravimas-dubline/'
               },
@@ -52,24 +69,28 @@ module.exports = {
               }
             ]
           },
-          { text: 'Kontaktai', link: '/lt/kontaktai/'},
+          {
+            text: 'Kontaktai',
+            link: '/lt/kontaktai/'
+          },
 
         ],
         algolia: {},
         sidebar: {
-          '/lt/': [/* ... */],
-          '/lt/nested/': [/* ... */]
+          '/lt/': [ /* ... */ ],
+          '/lt/nested/': [ /* ... */ ]
         }
       },
       '/ru/': {
         selectText: 'Язык',
         label: 'Русский',
-        nav: [
-          { text: 'Начало', link: '/ru/'},
+        nav: [{
+            text: 'Начало',
+            link: '/ru/'
+          },
           {
             text: 'Услуги',
-            items: [
-              { 
+            items: [{
                 text: 'Калибровка экрана',
                 link: '/ru/kalibrovka-ekrana-komputera-dublin/'
               },
@@ -79,12 +100,15 @@ module.exports = {
               // }
             ]
           },
-          { text: 'Контакты', link: '/ru/kontakt/'}
+          {
+            text: 'Контакты',
+            link: '/ru/kontakt/'
+          }
         ],
         algolia: {},
         sidebar: {
-          '/lt/': [/* ... */],
-          '/lt/nested/': [/* ... */]
+          '/lt/': [ /* ... */ ],
+          '/lt/nested/': [ /* ... */ ]
         }
       }
     }
@@ -108,5 +132,10 @@ module.exports = {
       description: 'ремонт, техническое обслуживание компьютеров, удаление вирусов, калибровка экрана. Телефон 085 733 8886.'
     }
   },
-  ga: 'UA-15913626-1'
+  plugins: [
+    ['@vuepress/google-analytics', {
+      ga: 'UA-15913626-1'
+    }],
+    '@vuepress/nprogress'
+  ]
 }
