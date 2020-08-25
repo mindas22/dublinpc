@@ -22,4 +22,4 @@ Tam tikrais atvejais patarsime, kada jums patiems reiktų įsigyti kalibratorių
 
 Prašome [susisiekite](/lt/kontaktai/) susitarti dėl serviso.
 
-Kaina €25.
+Kaina €35.

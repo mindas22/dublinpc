@@ -19,4 +19,4 @@ CCFL, Wide-Gamut CCFL, White LED, RGB LED, CRT, Retina Display
 
 Пожалуйста [напишите](/ru/kontakt/) договарится о сервисе.
 
-Цена €25.
+Цена €35.
