@@ -15,14 +15,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vuepress": "^1.2.0"
+    "vuepress": "^1.8.0"
   },
   "bugs": {
     "url": "https://github.com/mindas22/dublinpc/issues"
   },
   "homepage": "https://github.com/mindas22/dublinpc#readme",
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.2.0",
-    "@vuepress/plugin-nprogress": "^1.2.0"
+    "@vuepress/plugin-google-analytics": "^1.8.0",
+    "@vuepress/plugin-nprogress": "^1.8.0"
   }
 }

@@ -3,11 +3,12 @@ meta:
   - name: description
     content: Ką jums duoda monitoriaus spalvų sukalibravimas? Ar jūsų redaguotos nuotraukos atrodo tai pat kaip ir pas jūsų draugų monitoriuose? Paslaugos Airijoje.
 ---
-# Monitoriaus spalvų suderinimas – kalibravimas Dubline Airijoje 
+
+# Monitoriaus spalvų suderinimas – kalibravimas Dubline Airijoje
 
 Ką duoda monitoriaus spalvų sukalibravimas?
 
-![Kompiuteriu remontas Airijoje](../../img/color-management.jpg)
+![Kompiuteriu spalvu suderinimas Airijoje](../../img/color-management.jpg)
 
 Ar jūsų redaguotos nuotraukos atrodo tai pat kaip ir pas jūsų draugų monitoriuose? Fotomegėjai retai kalibruoja savo ekrnus, todėl tonai ir spalvos atrodo kitaip nei jos iš tikrūjų yra.
 
@@ -22,4 +23,6 @@ Tam tikrais atvejais patarsime, kada jums patiems reiktų įsigyti kalibratorių
 
 Prašome [susisiekite](/lt/kontaktai/) susitarti dėl serviso.
 
-Kaina €35.
+Kaina €35-50.
+
+![Kompiuteriu ekranu spalvu kalibravimas, suderinimas Dubline Airijoje](../../img/monitor_colour_calibration_dublinpc-sm.jpg)

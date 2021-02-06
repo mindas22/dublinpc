@@ -6,7 +6,9 @@ meta:
 
 # Windows Operacinės sistemos perinstaliavimas Dubline
 
-Dublin PC – kompiuterių priežiūros ir remonto paslaugos, virusų naikinimas, Ekrano spalvų suderinimas.
+![Windows OS perinstaliavimas Dubline](../../img/couple_computer_dublinpc_windows_sm.jpg)
+
+### Dublin PC – kompiuterių priežiūros ir remonto paslaugos, virusų naikinimas, Ekrano spalvų suderinimas.
 
 Skambinti [085 733 8886](tel:+353857338886)
 Kompiuteris veikia lėčiau, užpuolė virusai?
