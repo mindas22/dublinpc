@@ -3,6 +3,7 @@ meta:
   - name: description
     content: Kompiuteris veikia lėčiau, užpuolė virusai? Windows Operacinės sistemos perinstaliavimas, išsaugojant esamus duomenis. Dubline. Airijoje.
 ---
+
 # Windows Operacinės sistemos perinstaliavimas Dubline
 
 Dublin PC – kompiuterių priežiūros ir remonto paslaugos, virusų naikinimas, Ekrano spalvų suderinimas.
@@ -12,7 +13,7 @@ Kompiuteris veikia lėčiau, užpuolė virusai?
 Kompiuteris nebe užsikrauna?
 Iškilo kitos problemos?
 
-Daugelis problemų išsprendžiamos vienu metu, t.y.  Windows Operacinės sistemos perinstaliavimas, išsaugojant esamus duomenis.
+Daugelis problemų išsprendžiamos vienu metu, t.y. Windows Operacinės sistemos perinstaliavimas, išsaugojant esamus duomenis.
 
 Kas įeina į šią paslaugą:
 
@@ -26,4 +27,4 @@ Kas įeina į šią paslaugą:
 - Operacinės sistemos optimizavimas (labai svarbu, kad sistema veiktų greičiau).
 - [Ekrano spalvų suderinimas. Ekrano spalvos atrodys natūralios, geriau rodys nei rodė tik nupirkus iš parduotuvės.](/lt/monitoriaus-spalvu-suderinimas-kalibravimas-dubline/) (Priduodant kompiuteri paminėkite, kad norite šios paslaugos)
 
-- Paslaugos kaina €50
+- Paslaugos kaina nuo €60

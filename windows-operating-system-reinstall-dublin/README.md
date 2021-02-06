@@ -3,6 +3,7 @@ meta:
   - name: description
     content: Other problems? Most problems relating to operating system could be solved in one service. Windows operating system reinstall or upgrade + free backup and ...
 ---
+
 # Windows operating system reinstall in Dublin
 
 ![Windows OS reinstallation services](../img/windows-reinstall.jpg)
@@ -27,4 +28,4 @@ Re-installation package:
 - Operating system tuneup (very important for computer performance).
 - Screen colour calibration. Screen colours will look more natural after precisely measured with calibrating device. It will look even better than was bought new from shop.
 
-Price: €50+
+Price: from €60
