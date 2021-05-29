@@ -136,6 +136,11 @@ module.exports = {
     ['@vuepress/google-analytics', {
       ga: 'UA-15913626-1'
     }],
-    '@vuepress/nprogress'
+    ['@vuepress/nprogress'],
+    ['@vuepress/back-to-top'],
+    ['sitemap', {
+      hostname: 'https://dublinpc.ie',
+      outFile: 'sitemap.xml'
+    }],
   ]
 }
