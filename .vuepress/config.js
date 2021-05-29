@@ -140,7 +140,8 @@ module.exports = {
     ['@vuepress/back-to-top'],
     ['sitemap', {
       hostname: 'https://dublinpc.ie',
-      outFile: 'sitemap.xml'
+      outFile: 'sitemap.xml',
+      exclude: ['/404.html', '/thanks-contact.html','/thanks.html']
     }],
   ]
 }
