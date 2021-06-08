@@ -17,6 +17,6 @@ We can calibrate your monitor or laptop screen (CCFL, Wide-Gamut CCFL, White LED
 
 Please contact to arrange the service.
 
-Price: **€35-50**. Also you can get it free with windows re-installation services.
+Price: **€35-50**.
 
 ![Monitor calibration in Dublin](../img/monitor_colour_calibration_dublinpc-sm.jpg)
