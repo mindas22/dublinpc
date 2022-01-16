@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "esm": "^3.2.25",
-    "vuepress": "^1.8.0",
+    "vuepress": "^1.9.5",
     "vuepress-plugin-sitemap": "^2.3.1"
   },
   "bugs": {
@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/mindas22/dublinpc#readme",
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.8.2",
-    "@vuepress/plugin-google-analytics": "^1.8.0",
-    "@vuepress/plugin-nprogress": "^1.8.0"
+    "@vuepress/plugin-back-to-top": "^1.9.5",
+    "@vuepress/plugin-google-analytics": "^1.9.5",
+    "@vuepress/plugin-nprogress": "^1.9.5"
   }
 }

@@ -1,5 +1,7 @@
 ---
 meta:
+  - name: title
+    content: Dublin PC - Контакты Lucan Co.Dublin Ireland 
   - name: description
     content: Dublin PC - ремонт, техническое обслуживание компьютеров, удаление вирусов, калибровка экрана. Телефон 085 733 8886
 ---
