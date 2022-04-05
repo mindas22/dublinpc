@@ -13,7 +13,7 @@ Is your edited photo being seen by your friends in the same way as it is by you?
 
 A properly calibrated monitor is essential for colour critical work such as digital photography or graphic design. A calibrated screen gives you a trusted source for viewing your images.
 
-We can calibrate your monitor or laptop screen (CCFL, Wide-Gamut CCFL, White LED, Retina Dipslay, RGB LED, CRT) to get the ultimate in accurate colour display.
+We can calibrate your monitor or laptop screen (CCFL, Wide-Gamut CCFL, White LED, Retina Display, RGB LED, CRT) to get the ultimate in accurate colour display.
 
 Please contact to arrange the service.
 
