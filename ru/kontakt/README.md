@@ -8,6 +8,11 @@ meta:
 ![Windows OS reinstallation services](../../img/1287.jpg)
 
 # Контакты
+
+::: warning Внимание
+Услуги временно недоступны.
+:::
+
 Звоните [085 733 8886](tel:+353857338886)
 
 DUBLIN PC – Lucan, Co.Dublin, Ireland

@@ -6,6 +6,10 @@ meta:
 
 # Windows operating system reinstall in Dublin
 
+::: warning
+Temporarily services are not available.
+:::
+
 ![Windows OS reinstallation services](../img/couple_computer_dublinpc_windows_sm.jpg)
 
 - Computer works slowly, got attacked by viruses?

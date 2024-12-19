@@ -6,6 +6,10 @@ meta:
 
 # Monitoriaus spalvų suderinimas – kalibravimas Dubline Airijoje
 
+::: warning Dėmesio
+Paslaugos laikinai neteikiamos.
+:::
+
 Ką duoda monitoriaus spalvų sukalibravimas?
 
 ![Kompiuteriu spalvu suderinimas Airijoje](../../img/color-management.jpg)

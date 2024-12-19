@@ -9,6 +9,12 @@ meta:
 # Co. Dublin based PC support, repair, maintenance service. Virus removal. Screen colour calibration
 
 #### Call [085 733 8886](tel:+353857338886) or [email](/contacts/)
+
+::: warning
+Temporarily services are not available.
+:::
+
+
 ::: tip WE SPEAK:
 *[English](/), [Russian](/ru/), [Lithuanian](/lt/)*
 :::

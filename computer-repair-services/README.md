@@ -5,6 +5,10 @@ meta:
 ---
 # Computer repair services in Dublin
 
+::: warning
+Temporarily services are not available.
+:::
+
 ![Computer repair services](../img/laptop-repair.jpg)
 
 Please phone [085 733 8886](tel:+353857338886)

@@ -9,6 +9,10 @@ meta:
 
 # kontaktai
 
+::: warning Dėmesio
+Paslaugos laikinai neteikiamos.
+:::
+
 Skambinkite [085 733 8886](tel:+353857338886)
 
 DUBLIN PC – Lucan, Co.Dublin, Ireland
